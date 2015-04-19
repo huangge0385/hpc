@@ -1,6 +1,6 @@
 HPC prog_geneticParallel
 =================================
-This is CSE6220 course project. The goal is to find all genetic sequence that is within certain hamming distance.
+This is CSE6220 course project. The goal is to find all genetic sequence that is within certain hamming distance. Skills required: C++, MPI
 
 To see course project file, open "6220prog_geneticParallel.pdf"
 
